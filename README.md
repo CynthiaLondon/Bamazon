@@ -1,7 +1,7 @@
 # Bamazon
 
-#Bamazon is an Amazon-like storefront, which takes orders from customers and depletes stock from the store's inventory. 
-#This app uses MySQL and Inquirer node.js packages.
+Bamazon is an Amazon-like storefront, which takes orders from customers and depletes stock from the store's inventory. 
+This app uses MySQL and Inquirer node.js packages.
 
  ### Challenge #1: Customer View (Minimum Requirement)
  
